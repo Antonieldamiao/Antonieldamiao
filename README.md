@@ -14,6 +14,6 @@
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
 </div>
  
-  ![Snake animation](https://github.com/antonieldamiao/antonieldamiao/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Antonieldamiao/Antonieldamiao/blob/output/github-contribution-grid-snake.svg)
  
 
