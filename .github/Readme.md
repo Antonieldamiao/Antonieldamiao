@@ -13,5 +13,6 @@
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
 </div>
-![snake gif](https://github.com/Antonieldamiao/Antonieldamiao/blob/output/github-contribution-grid-snake.gif)
+![snake gif]
+(https://github.com/Antonieldamiao/Antonieldamiao/blob/output/github-contribution-grid-snake.gif)
  
