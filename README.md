@@ -15,6 +15,6 @@
 </div>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Antonieldamiao&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for AntonielDamiao" width="700">
-![snake gif](https://github.com/Antonieldamiao/Antonieldamiao/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Antonieldamiao/Antonieldamiao/blob/output/github-contribution-grid-snake.gif)
  
 
